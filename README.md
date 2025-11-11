@@ -18,7 +18,8 @@ It enables administrators to collect alumni data, track employment statistics, a
 ![Dashboard](DashboardScreenshot.png)
 ![](DashboardScreenshot2.png)
 ![](DashboardScreenshot3.png)
-
+### 👤 User Mangment
+![User Mangment](userManagment.png)
 ### 👤 Graduate Profile
 ![Graduate Page](GraduateScreenshot.png)
 
