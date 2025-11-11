@@ -17,6 +17,7 @@ It enables administrators to collect alumni data, track employment statistics, a
 ### 🎓 Dashboard
 ![Dashboard](DashboardScreenshot.png)
 ![](DashboardScreenshot2.png)
+![](DashboardScreenshot3.png)
 
 ### 👤 Graduate Profile
 ![Graduate Profile](screenshots/graduate-profile.png)
